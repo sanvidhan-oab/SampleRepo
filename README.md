@@ -14,10 +14,10 @@ Laravel is accessible, yet powerful, providing powerful tools needed for large, 
 
 ### OAB Libraries Available.
 
-    *  OABAwsSNS _OABPushNotification_ class -------> App/OABLibrary/OABPushNotification.php
-    *  OABDistance _OABDistance_ class  -------> App/OABLibrary/OABDistance/OABDistance.php
-    *  OABFfmpeg _OABFfmpeg_ class  -------> App/OABLibrary/OABFfmpeg/OABFfmpeg.php
-    *  OABTzConvert _OABTzConvert_ class  -------> App/OABLibrary/OABTzConvert/OABTzConvert.php
+   - OABAwsSNS _OABPushNotification_ class -------> App/OABLibrary/OABPushNotification.php
+   -  OABDistance _OABDistance_ class  -------> App/OABLibrary/OABDistance/OABDistance.php
+   -  OABFfmpeg _OABFfmpeg_ class  -------> App/OABLibrary/OABFfmpeg/OABFfmpeg.php
+   -  OABTzConvert _OABTzConvert_ class  -------> App/OABLibrary/OABTzConvert/OABTzConvert.php
 
 
 ### Third party libraries installed
