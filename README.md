@@ -1,8 +1,5 @@
 ## OAB Backend Starter
 
-http://github.com - automatic!
-[GitHub](http://github.com)
-
 We believe development must be an enjoyable, creative experience to be truly fulfilling.
 **OAB Backend Starter** is created for Backend of mobile application.
 It will be helpfull to develop basic application modules and easy setup of the backend server for 
@@ -17,25 +14,25 @@ Laravel is accessible, yet powerful, providing powerful tools needed for large, 
 
 ### OAB Libraries Available.
 
-   - OABAwsSNS _OABPushNotification_ class -------> App/OABLibrary/OABPushNotification.php
-   -  OABDistance _OABDistance_ class  -------> App/OABLibrary/OABDistance/OABDistance.php
-   -  OABFfmpeg _OABFfmpeg_ class  -------> App/OABLibrary/OABFfmpeg/OABFfmpeg.php
-   -  OABTzConvert _OABTzConvert_ class  -------> App/OABLibrary/OABTzConvert/OABTzConvert.php
+   -  OABAwsSNS __OABPushNotification__ class -------> App/OABLibrary/OABPushNotification.php
+   -  OABDistance __OABDistance__ class  -------> App/OABLibrary/OABDistance/OABDistance.php
+   -  OABFfmpeg __OABFfmpeg__ class  -------> App/OABLibrary/OABFfmpeg/OABFfmpeg.php
+   -  OABTzConvert __OABTzConvert__ class  -------> App/OABLibrary/OABTzConvert/OABTzConvert.php
 
 
 ### Third party libraries installed
-```
-Itsa code
-{
-    name:"Sanvidhan",
-    mobile:"8007063030",
-    email:"sanvidhans@gmail.com",
-    address:"Pune",
-}
-```
-sasasa
+  -  [Jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb)
+  -  [Dingo/api](https://github.com/dingo/api)
+  -  [Aws/aws-sdk-php-laravel](https://github.com/aws/aws-sdk-php-laravel)
+  
+#### Jenssegers/laravel-mongodb
+    It is used to working mongodb as like normal eloquent classes of laravel.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+#### Dingo/api
+     A RESTful API package for the Laravel frameworks. 
+
+#### Aws/aws-sdk-php-laravel
+    A Laravel 5 (and 4) service provider for the AWS SDK for PHP.
 
 ### Official Documentation for laravel
 
